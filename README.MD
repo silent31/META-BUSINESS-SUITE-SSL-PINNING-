@@ -7,7 +7,7 @@
 <br>
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=Facebook+SSL+Pinning+Bypass+Tool;libcoldstart.so+Binary+Research;ARM64+Architecture+Support;Need+Latest+Method+Contact+Now;Muhammad+Hamza+Security+Lab" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=META+BUSINESS+SUITE+SSL+Pinning+Bypass+Tool;libcoldstart.so+Binary+Research;ARM64+Architecture+Support;Need+Latest+Method+Contact+Now;Muhammad+Hamza+Security+Lab" />
 
 <br>
 
@@ -23,10 +23,10 @@
 # 🧠 SYSTEM INFORMATION
 
 ```text
-📦 Package      : com.facebook.katana
+📦 Package      : com.facebook.pages.app
 🏷️ Version      : 558.0.0.48.106
 🖥️ Architecture : ARM64-v8a
-⚙️ Module       : libcoldstart.so
+⚙️ Module       : 
 🔐 Security     : SSL Pinning Layer
 📡 Mode         : Network Research Lab
 ```
