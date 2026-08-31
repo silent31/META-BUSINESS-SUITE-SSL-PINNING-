@@ -18,7 +18,7 @@
 ║  📦 Package       : com.facebook.pages.app           ║
 ║  🏷️ Version       : 567.0.0.56.104                   ║
 ║  🖥️ Architecture  : ARM64-v8a                        ║
-║  ⚙️ Module        : libcoldstart.so                  ║
+║  ⚙️ Module        :             .so                  ║
 ║  🔗 Interface     : JNI / Native Layer               ║
 ║  🔐 Security      : SSL / TLS Research               ║
 ║  📡 Environment   : Controlled Research Lab          ║
@@ -52,14 +52,14 @@
                    🖥️ ARM64 CODE
                           │
                           ▼
-                  📦 libcoldstart.so
+                  📦     .so
                           │
                           ▼
                     🔐 TLS LAYER
 
 ---
 
-🔬 libcoldstart.so RESEARCH
+📦   .so RESEARCH
 
 ┌──────────────────────────────────────────────────────┐
 │                 NATIVE BINARY LAB                    │
@@ -99,7 +99,7 @@ Java / Kotlin
           ARM64 ELF
               │
               ▼
-       libcoldstart.so
+             .so
 
 ---
 
@@ -119,7 +119,7 @@ Java / Kotlin
    Native Library
         │
         ▼
-  libcoldstart.so
+       .so
         │
         ▼
    ELF Analysis
