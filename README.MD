@@ -24,9 +24,9 @@
 
 ```text
 📦 Package      : com.facebook.pages.app
-🏷️ Version      : 558.0.0.48.106
+🏷️ Version      : 567.0.0.56.104
 🖥️ Architecture : ARM64-v8a
-⚙️ Module       : 
+⚙️ Module       : .so
 🔐 Security     : SSL Pinning Layer
 📡 Mode         : Network Research Lab
 ```
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="assets/evidence1.png.jpg" width="90%" style="border-radius:15px; box-shadow:0px 0px 25px #00ff00;">
+<img src="assets/evidence.png.jpg" width="90%" style="border-radius:15px; box-shadow:0px 0px 25px #00ff00;">
 
 </div>
 
