@@ -4,7 +4,7 @@
 
 👨‍💻 Muhammad Hamza • Android Native Security Research
 
-<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=META+BUSINESS+SUITE+NATIVE+RESEARCH;libcoldstart.so+BINARY+ANALYSIS;JNI+%E2%86%94+C%2FC%2B%2B+NATIVE+LAYER;ARM64+ELF+RESEARCH;SSL%2FTLS+SECURITY+ANALYSIS;ANDROID+NATIVE+SECURITY+LAB;MUHAMMAD+HAMZA" /><br><img src="https://img.shields.io/badge/JNI-NATIVE%20RESEARCH-00FF41?style=for-the-badge">
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=META+BUSINESS+SUITE+NATIVE+RESEARCH;.so+BINARY+ANALYSIS;JNI+%E2%86%94+C%2FC%2B%2B+NATIVE+LAYER;ARM64+ELF+RESEARCH;SSL%2FTLS+SECURITY+ANALYSIS;ANDROID+NATIVE+SECURITY+LAB;MUHAMMAD+HAMZA" /><br><img src="https://img.shields.io/badge/JNI-NATIVE%20RESEARCH-00FF41?style=for-the-badge">
 <img src="https://img.shields.io/badge/ARM64-V8A-9B59FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/libcoldstart.so-ELF-FF8800?style=for-the-badge">
 <img src="https://img.shields.io/badge/ANDROID-SECURITY-00AAFF?style=for-the-badge&logo=android&logoColor=white"></div>---
